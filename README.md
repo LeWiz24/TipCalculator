@@ -28,12 +28,7 @@ The following **additional** features are implemented:
 
 Gif:
 https://imgur.com/a/OEvUxmH.gif
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 

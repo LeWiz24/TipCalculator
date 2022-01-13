@@ -26,13 +26,10 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
+Gif:
+https://imgur.com/a/OEvUxmH.gif
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created (http://g.recordit.co/jKevpBRk7D.gif).
 
 ## Notes
 
